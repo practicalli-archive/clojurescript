@@ -6,8 +6,10 @@
 ### Changed
 - ci: spell lychee & repository trufflehog linters warn only (false positives)
 - dev: ci scheduled stale issue & pr check (monthly)
+- ci(github): 🔧 practicalli workflows for zensical static site generator
 
-* 2023-03-10
+
+## 2023-03-10
 ### Added
 - started a changelog
 ### Changed
