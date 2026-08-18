@@ -8,6 +8,7 @@
 - dev: ci scheduled stale issue & pr check (monthly)
 - ci(github): 🔧 practicalli workflows for zensical static site generator
 - build(make): 🔧 practicalli tasks for zensical
+- build(zensical): 💄 overrides updated for zensical
 
 ## 2023-03-10
 ### Added
