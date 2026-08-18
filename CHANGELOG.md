@@ -10,6 +10,7 @@
 - build(make): 🔧 practicalli tasks for zensical
 - build(zensical): 💄 overrides updated for zensical
 - build(zensical): 💄 add automatic palette for light or dark
+- docs(readme): 📝 update summary and add contributing links
 
 ## 2023-03-10
 ### Added
