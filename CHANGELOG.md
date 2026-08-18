@@ -9,6 +9,7 @@
 - ci(github): 🔧 practicalli workflows for zensical static site generator
 - build(make): 🔧 practicalli tasks for zensical
 - build(zensical): 💄 overrides updated for zensical
+- build(zensical): 💄 add automatic palette for light or dark
 
 ## 2023-03-10
 ### Added
