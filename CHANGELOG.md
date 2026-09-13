@@ -5,6 +5,7 @@
 ### Added
 
 - style(marksman): 🎨 set docs as root path for marksman
+- ci(zensical): 🔧 run zensical build with uvx
 
 ### Changed
 - ci: spell lychee & repository trufflehog linters warn only (false positives)
