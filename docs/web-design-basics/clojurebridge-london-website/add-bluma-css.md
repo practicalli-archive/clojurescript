@@ -20,7 +20,7 @@ See the [Practicalli Landing page index.html file](https://github.com/practicall
 
 ## Bulma via Clojure Hiccup code
 
-When using Clojure Hiccup code to generate the HTML page that loads the application (or any other HTML pages), Bulma CSS and FontAwesome can also be included using  the [hiccup style syntax](/hiccup-style-syntax.md).
+When using Clojure Hiccup code to generate the HTML page that loads the application (or any other HTML pages), Bulma CSS and FontAwesome can also be included using  the [hiccup style syntax](./hiccup-for-html.md).
 
 ```clojure
 [:link {:rel "stylesheet"

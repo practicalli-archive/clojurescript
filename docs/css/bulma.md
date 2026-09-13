@@ -2,16 +2,16 @@
 
 A simple and clean Cascading Style Sheet (CSS) library used to create professional looking websites.
 
-Bulma is a CSS only framework (no JavaScript) that provides a range of easy to apply styles using meaningful style names.  Its quite lightweight and therefore fast to load along with your website.
+Bulma is a CSS only framework (no JavaScript) that provides a range of easy to apply styles using meaningful style names. Its quite lightweight and therefore fast to load along with your website.
 
-Bulma is [compatible with all icon font libraries](https://bulma.io/documentation/elements/icon/), eg. Font Awesome, Material Design, Ionicons, etc.  Practicalli uses FontAwesome icon library to add common logos such at GitHub.
+Bulma is [compatible with all icon font libraries](https://bulma.io/documentation/elements/icon/), eg. Font Awesome, Material Design, Ionicons, etc. Practicalli uses FontAwesome icon library to add common logos such at GitHub.
 
 The Bulma library can be included via static html files, templates or via ClojureScript code.
 
-> #### Hint::Use a Content Delivery Network
-> [Bulma start documentation](https://bulma.io/documentation/overview/start/) shows how to use the Bulma library from a Content Deliver Network (CDN).  A CDN avoids the need to download and update a local copy of the Bulma CSS code.
->
-> Downloading Bulma is only useful if editing or extending Bulma itself or need to use Bulma with a custom CSS or Sass development workflow (or there is a limited network connection)
+??? HINT "Use a Content Delivery Network"
+    [Bulma start documentation](https://bulma.io/documentation/overview/start/) shows how to use the Bulma library from a Content Deliver Network (CDN). A CDN avoids the need to download and update a local copy of the Bulma CSS code.
+
+    A local copy of Bulma is only useful if editing or extending Bulma itself, or using Bulma with a custom CSS or Sass development workflow.
 
 
 ## Including in static html file
@@ -73,7 +73,7 @@ The [Practicalli Landing page index.html file](https://github.com/practicalli/pr
 
 ## Bulma via Clojure Hiccup code
 
-Generate html code from ClojureScript using the [hiccup style syntax](/hiccup-style-syntax.md).
+Generate html code from ClojureScript using the [hiccup style syntax](../introduction/hiccup-style-syntax.md).
 
 ```clojure
 [:link {:rel "stylesheet"
