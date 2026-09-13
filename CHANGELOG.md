@@ -3,6 +3,9 @@
 ## Unreleased
 
 ### Added
+
+- style(marksman): 🎨 set docs as root path for marksman
+
 ### Changed
 - ci: spell lychee & repository trufflehog linters warn only (false positives)
 - dev: ci scheduled stale issue & pr check (monthly)
