@@ -42,16 +42,16 @@ A [:fontawesome-solid-book-open: Clojure aware editor](https://practicalli.githu
 
 ## Navigate the book
 
-Use the mouse or built-in key bindings to navigate the pages of the book
+Use the links in the footer of each page or built-in key bindings to navigate the pages of the book.
 
-- ++p++ , ++comma++ : go to previous page
-- ++n++ , ++period++ : go to next page
+- ++"n"++ or ++period++ : go to next page
+- ++"p"++ or ++comma++ : go to previous page
 
 Use the search box to quickly find a specific topic
 
-- ++f++ , ++s++ , ++slash++ : open search dialog
-- ++arrow-down++ , ++arrow-up++ : select next / previous result
-- ++esc++ , ++tab++ : close search dialog
+- ++slash++ or ++ctrl+"k"++: open search dialog
+- ++arrow-down++  ++arrow-up++ : select next / previous search result
+- ++esc++ or ++tab++ : close search dialog
 - ++enter++ : follow selected result
 
 
@@ -70,4 +70,3 @@ Thanks to [Cognitect](https://www.cognitect.com/){target=_blank}, [Nubank](https
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
   This work is licensed under a Creative Commons Attribution 4.0 ShareAlike License (including images & stylesheets).
 </div>
-

@@ -15,6 +15,7 @@
 - build(zensical): 💄 overrides updated for zensical
 - build(zensical): 💄 add automatic palette for light or dark
 - docs(readme): 📝 update summary and add contributing links
+- docs(intro): ✏️ update navigation keys information
 
 ## 2023-03-10
 ### Added
